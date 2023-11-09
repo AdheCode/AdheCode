@@ -1,8 +1,8 @@
 ### Hi there, I'm [Adhe](https://ade-prasetya.vercel.app)! 👋
 
 
-- 🔭 I’m currently working on [Pawjourr](http://pawjourr.com/)
 - 🌱 I’m currently learning [ThreeJS](https://threejs.org/)
+- 🔭 I worked on [Pawjourr](http://pawjourr.com/)
 - 👯 I’m looking to collaborate on any open-source projects related to React and NextJs
 - 😄 Pronouns: he/him
 
