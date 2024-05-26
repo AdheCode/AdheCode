@@ -2,7 +2,8 @@
 
 
 - 🌱 I’m currently learning [ThreeJS](https://threejs.org/)
-- 🔭 I worked on [Pawjourr](http://pawjourr.com/)
+- 💼 Now working at [Protaige](http://protaige.com/)
+- 🔭 Ex [Pawjourr](http://pawjourr.com/)
 - 👯 I’m looking to collaborate on any open-source projects related to React and NextJs
 - 😄 Pronouns: he/him
 
