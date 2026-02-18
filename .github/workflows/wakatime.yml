@@ -23,9 +23,3 @@ jobs:
           CODE_LANG: typescript
           TIME_RANGE: all_time
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: Bot
-          COMMITTER_EMAIL: adhep86@gmail.com
-          AUTHOR_NAME: AdheCode
-          AUTHOR_EMAIL: adhep86@gmail.com
