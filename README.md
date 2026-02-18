@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on any open-source projects related to React and NextJs
 - 😄 Pronouns: he/him
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
